@@ -9,7 +9,6 @@ Adding products by customer into shopping cart, I developed this project to get 
 
 	
 ## Bundles
-Project is created with:
 * Symfony/Form for validations and constraints
 * Symfony/Controller
 * Symfony/Entity
